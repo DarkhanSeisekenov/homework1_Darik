@@ -1,0 +1,141 @@
+
+
+
+*{
+    borde   : 3px solid red;
+}
+.the_largest{
+    width: 1500px;
+    height: 800px;
+    margin: auto;
+}
+.logo{
+    height: 50px;
+    width: 130px;
+    float: left;
+    margin-left: 10px;
+
+}
+.header-шапка{
+    width: 1500px;
+    height: 70px;
+    background-color: #ffffff;
+}
+.ul-text{
+    position: relative;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+li{
+    
+    list-style-type: none;
+    display: inline;
+    margin-right: 60px;
+    color: rgb(150, 150, 150);
+    cursor: pointer;
+    
+   
+}
+li:hover{
+    color: rgb(2, 2, 2);
+    border-bottom: 2px solid rgb(172, 0, 132);
+}
+.sss{
+width: 50px;
+height: 50px;
+cursor: pointer;
+padding: 3px 3px ;
+}
+.searcher{
+float: right;
+margin-right: 15px;
+}
+.niz{
+    margin: 0px auto;
+width: 1500px;
+height: 700px;
+}
+.right{
+    float: right;
+}
+.er{
+    width: 900px;
+    height: 700px;
+}
+.left{
+    width: 570px;
+    height: 680px;
+    float: left;       
+}
+.knopka_1{
+    background-color:rgb(255, 189, 6);
+    color: rgb(0, 0, 0);
+    border: 0px solid #000;
+    font-weight: bold;
+    
+}   
+button{
+    display: inline;
+    border-radius: 120px;
+    cursor: pointer;
+    
+    padding: 10px 50px;
+}  
+.knopka_2{
+        border: 0px solid white;
+        background-color: #fff;
+        border: 1px solid rgb(201, 201, 201);
+        margin-left: 20px;
+        padding: 10px 70px;
+        font-weight: bold;
+}
+h5{
+    color: rgb(148, 148, 148);
+}
+.text-l{
+    width: 350px;
+    height: 250px;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+.helper{
+    width: 400px;
+    height: 70px;
+    float: left;
+    margin-top: 200px;
+}
+.мияги{
+    height: 65px;
+    width: 65px;
+    border-radius: 100px;
+}
+.photo{
+    height: 67px;
+    width: 67px;
+    float: left;
+}
+.arrow{
+    height: 33px;
+    width: 33px;
+}
+.arrowdiv{
+    height: 42px;
+    width: 42px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 110px;
+}
+.oval{
+    width: 400px;
+    height: 67px;
+}
+.hi{
+    border-radius: 100px;
+    border: solid rgb(211, 211, 211) 1px;
+    padding: 10px 25px;
+    margin-left: 80px;
+    margin-bottom: px;
+    margin-right: 110px;
+}
